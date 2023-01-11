@@ -8,3 +8,9 @@ Meanwhile this datasets captures total of 244 countries accross Asia, Africa, No
 The dataset was then grouped by location and correlation done on them
 
 I hope you do enjoy the results
+
+
+
+
+
+https://jkayay.github.io/covidAnalysis/covidAnalysis.html
